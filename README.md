@@ -1,1 +1,1 @@
-Practicing linear regression using Sacremento real estate data.
+Doing a little linear regression with the aid of Sacramento real estate data.
